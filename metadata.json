@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Interactive — Game Development Studio",
+  "description": "Independent game development studio crafting original interactive worlds, co-development partnerships, and real-time rendering pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
